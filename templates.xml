@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<templates>
+	<template 
+		id="shannah/xataface-starter-template" 
+		name="Hello World"
+		description="Bare-bones starter template"/>
+		
+	<template
+		id="shannah/webauction"
+		name="WebAuction"
+		description="A Web-based auction application"/>
+		
+	<template
+	
+		id="shannah/media-server"
+		name="Media Server"
+		description="Image and video hosting application"/>
+		
+	<template
+		id="shannah/mailer"
+		name="Mailer"
+		description="Mailing list manager."/>
+		
+	
+</templates>
