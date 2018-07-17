@@ -3,23 +3,30 @@
 	<template 
 		id="shannah/xataface-starter-template" 
 		name="Hello World"
-		description="Bare-bones starter template"/>
+		description="Bare-bones starter template"
+		icon="images/starter.png"
+		/>
 		
 	<template
 		id="shannah/webauction"
 		name="WebAuction"
-		description="A Web-based auction application"/>
-		
+		description="A Web-based auction application"
+		icon="images/webauction.png"
+		/>
 	<template
 	
 		id="shannah/media-server"
 		name="Media Server"
-		description="Image and video hosting application"/>
+		description="Image and video hosting application"
+		icon="images/media-server.png"
+		/>
 		
 	<template
 		id="shannah/mailer"
 		name="Mailer"
-		description="Mailing list manager."/>
+		description="Mailing list manager."
+		icon="images/mailer.png"
+		/>
 		
 	
 </templates>
